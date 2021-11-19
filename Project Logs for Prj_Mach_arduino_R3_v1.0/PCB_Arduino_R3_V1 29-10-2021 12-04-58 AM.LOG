@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=5v Pin=Q1-3
+Removed Pin From Net: NetName=IO3 Pin=U1-10
+Added Pin To Net: NetName=DTR Pin=C10-1
+Added Pin To Net: NetName=RESET Pin=C10-2
+Added Pin To Net: NetName=V3 Pin=C12-2
+Added Pin To Net: NetName=MISO Pin=JP1-1
+Added Pin To Net: NetName=RESET Pin=JP1-3
+Added Pin To Net: NetName=IO0/RXD Pin=JP4-1
+Added Pin To Net: NetName=IO1/RXD Pin=JP4-2
+Added Pin To Net: NetName=IO0/RXD Pin=JP5-1
+Added Pin To Net: NetName=IO1/RXD Pin=JP5-2
+Added Pin To Net: NetName=IO2 Pin=JP5-3
+Added Pin To Net: NetName=IO3 Pin=JP5-4
+Added Pin To Net: NetName=IO4 Pin=JP5-5
+Added Pin To Net: NetName=IO5 Pin=JP5-6
+Added Pin To Net: NetName=IO7 Pin=JP5-8
+Added Pin To Net: NetName=IO9 Pin=JP6-2
+Added Pin To Net: NetName=SS Pin=JP6-3
+Added Pin To Net: NetName=MOSI Pin=JP6-4
+Added Pin To Net: NetName=MISO Pin=JP6-5
+Added Pin To Net: NetName=SCK Pin=JP6-6
+Added Pin To Net: NetName=AREF Pin=JP6-8
+Added Pin To Net: NetName=RI Pin=JP7-2
+Added Pin To Net: NetName=DSR Pin=JP7-3
+Added Pin To Net: NetName=CTS Pin=JP7-4
+Added Pin To Net: NetName=RESET Pin=JP8-3
+Added Pin To Net: NetName=VIN Pin=JP8-8
+Added Pin To Net: NetName=IO0/RXD Pin=L3-2
+Added Pin To Net: NetName=IO1/RXD Pin=L4-2
+Added Pin To Net: NetName=IO0/RXD Pin=R7-2
+Added Pin To Net: NetName=IO1/RXD Pin=R8-2
+Added Pin To Net: NetName=XT1 Pin=U2-7
+Added Pin To Net: NetName=XT2 Pin=U2-8
+Added Pin To Net: NetName=AD1 Pin=JP9-2
+Added Pin To Net: NetName=AD1 Pin=U1-24
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD3 Pin=JP9-4
+Added Pin To Net: NetName=AD3 Pin=U1-26
+Added Net: Name=AD3
+Added Pin To Net: NetName=AD4/SDA Pin=JP3-2
+Added Pin To Net: NetName=AD4/SDA Pin=JP6-9
+Added Pin To Net: NetName=AD4/SDA Pin=JP9-5
+Added Pin To Net: NetName=AD4/SDA Pin=U1-27
+Added Net: Name=AD4/SDA
+Added Pin To Net: NetName=AD5/SCL Pin=JP3-1
+Added Pin To Net: NetName=AD5/SCL Pin=JP6-10
+Added Pin To Net: NetName=AD5/SCL Pin=JP9-6
+Added Pin To Net: NetName=AD5/SCL Pin=U1-28
+Added Net: Name=AD5/SCL
+Added Pin To Net: NetName=DCD Pin=JP7-1
+Added Pin To Net: NetName=DCD Pin=U2-12
+Added Net: Name=DCD
+Added Pin To Net: NetName=IO6 Pin=JP5-7
+Added Pin To Net: NetName=IO6 Pin=U1-10
+Added Net: Name=IO6
+Added Pin To Net: NetName=PWR Pin=IC1-1
+Added Pin To Net: NetName=PWR Pin=Q1-1
+Added Net: Name=PWR
+Added Pin To Net: NetName=VUSB Pin=F1-2
+Added Pin To Net: NetName=VUSB Pin=Q1-3
+Added Net: Name=VUSB
+Added Room: Name=SCH_Arduino_R3_V1.0

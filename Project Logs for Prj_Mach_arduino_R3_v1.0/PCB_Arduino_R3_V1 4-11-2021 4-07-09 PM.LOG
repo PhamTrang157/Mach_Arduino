@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=3.3V Pin=JP2-1
+Added Pin To Net: NetName=3.3V Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-4
+Added Pin To Net: NetName=IO0/RXD Pin=JP4-1
+Added Pin To Net: NetName=5v Pin=JP4-3
+Added Pin To Net: NetName=GND Pin=JP4-4
+Added Room: Name=SCH_Arduino_R3_V1.0

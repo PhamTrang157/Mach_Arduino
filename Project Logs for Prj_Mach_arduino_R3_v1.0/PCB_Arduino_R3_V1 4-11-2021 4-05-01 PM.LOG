@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=AD5/SCL Pin=JP3-1
+Added Pin To Net: NetName=AD4/SDA Pin=JP3-2
+Added Pin To Net: NetName=5v Pin=JP3-3
+Added Pin To Net: NetName=GND Pin=JP3-4
+Added Room: Name=SCH_Arduino_R3_V1.0
